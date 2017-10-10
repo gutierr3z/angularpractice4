@@ -17,6 +17,9 @@ header > section > section > div > a,
 
 
 
+header {
+    height: 15vmax;
+}
 
 header > section {
     background-color: #ddd7ce;
@@ -25,5 +28,19 @@ header > section {
 header > section > section > div > a {
     /* appearance */
     background-image: url( '../images/logo_icon.svg' );
-    background-size: 30%;
+    background-size: 27%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    /* border: 1px solid red; */
+    padding-left: 5rem;
+    letter-spacing: -.06rem;
+    color: #5b4d27;
+    display: flex;
+    align-items: center
+}
+
+@media ( min-width: 768px ) {
+    header {
+        height: 15vmin;
+    }
 }
