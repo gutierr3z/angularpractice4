@@ -39,6 +39,14 @@ header > section > section > div > a {
     align-items: center
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+footer > section {
+    background-color: #9f9484;
+}
+
 @media ( min-width: 768px ) {
     header {
         height: 15vmin;
