@@ -1,0 +1,29 @@
+
+header > section,
+main > section,
+footer > section,
+header > section > section,
+main > section > section, 
+footer > section > section,
+header > section > section > div > a,
+.br-gallery,
+.br-gallery > * ,
+.br-gallery > * > * ,
+.br-gallery > * > * > * {
+    /* appearance */
+    background-color: transparent;
+    border: 0px;
+}
+
+
+
+
+header > section {
+    background-color: #ddd7ce;
+}
+
+header > section > section > div > a {
+    /* appearance */
+    background-image: url( '../images/logo_icon.svg' );
+    background-size: 30%;
+}
