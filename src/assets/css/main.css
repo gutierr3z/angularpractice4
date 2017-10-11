@@ -14,11 +14,11 @@ header > section > section > div > a,
     background-color: transparent;
     border: 0px;
 }
-
+/* --------------------------- */
 
 
 header {
-    height: 15vmax;
+    height: 15vmax;                    /* should this be a min-height? */
 }
 
 header > section {
@@ -30,13 +30,13 @@ header > section > section > div > a {
     background-image: url( '../images/logo_icon.svg' );
     background-size: 27%;
     font-family: 'Oswald', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.5rem;              /* good */
     /* border: 1px solid red; */
-    padding-left: 5rem;
-    letter-spacing: -.06rem;
+    padding-left: 5rem;             /* good */
+    letter-spacing: -.06rem;        /* good */
     color: #5b4d27;
-    display: flex;
-    align-items: center
+    display: flex;                  /* good */
+    align-items: center             /* good */
 }
 
 h1, h2, h3, h4, h5, h6 {
