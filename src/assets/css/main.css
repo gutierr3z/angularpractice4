@@ -25,6 +25,11 @@ header > section {
     background-color: #ddd7ce;
 }
 
+main > section:first-of-type {      /* good */
+    /* structure */
+    padding-top: 5vmin;
+}
+
 header > section > section > div > a {
     /* appearance */
     background-image: url( '../images/logo_icon.svg' );
