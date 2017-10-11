@@ -25,6 +25,7 @@ header > section {
     background-color: #ddd7ce;
 }
 
+#pl-content,
 main > section:first-of-type {      /* good */
     /* structure */
     padding-top: 5vmin;
@@ -50,6 +51,15 @@ h1, h2, h3, h4, h5, h6 {
 
 footer > section {
     background-color: #9f9484;
+}
+
+#pl-hero {
+    background-color: #eccd00;
+    min-height: 300px;
+    /* background: url( '../images/boat_1.jpg' );
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; */
 }
 
 @media ( min-width: 768px ) {
