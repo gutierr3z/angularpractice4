@@ -8,16 +8,14 @@
 	.st2{fill:#FFFFFF;}
 	.st3{fill:#FF0000;}
 </style>
+<circle class="st0" cx="27.2" cy="27.2" r="27.2"/>
 <g>
-	<circle class="st0" cx="27.2" cy="27.2" r="27.2"/>
-	<g>
-		<polygon class="st1" points="21,23.6 8.9,21.3 19.4,25.7 		"/>
-		<polygon class="st2" points="5.2,20.7 13.7,36.9 26.3,29.5 		"/>
-		<polygon class="st2" points="26.8,28.8 26.8,17.3 20.2,26.1 		"/>
-		<polygon class="st1" points="45.6,21.3 33.5,23.6 35.1,25.7 		"/>
-		<polygon class="st1" points="28.2,29.5 40.8,36.9 49.3,20.7 		"/>
-		<polygon class="st3" points="27.2,29.9 27.2,29.9 14.9,37.2 27.2,37.2 27.3,37.2 39.6,37.2 27.3,29.9 		"/>
-		<polygon class="st1" points="27.7,17.3 27.7,28.8 34.3,26.1 		"/>
-	</g>
+	<polygon class="st1" points="21,23.6 8.9,21.3 19.4,25.7 	"/>
+	<polygon class="st2" points="5.2,20.7 13.7,36.9 26.3,29.5 	"/>
+	<polygon class="st2" points="26.8,28.8 26.8,17.3 20.2,26.1 	"/>
+	<polygon class="st1" points="45.6,21.3 33.5,23.6 35.1,25.7 	"/>
+	<polygon class="st1" points="28.2,29.5 40.8,36.9 49.3,20.7 	"/>
+	<polygon class="st3" points="27.2,29.9 27.2,29.9 14.9,37.2 27.2,37.2 27.3,37.2 39.6,37.2 27.3,29.9 	"/>
+	<polygon class="st1" points="27.7,17.3 27.7,28.8 34.3,26.1 	"/>
 </g>
 </svg>
